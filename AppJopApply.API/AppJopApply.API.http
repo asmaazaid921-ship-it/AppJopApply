@@ -1,0 +1,6 @@
+@AppJopApply.API_HostAddress = http://localhost:5245
+
+GET {{AppJopApply.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

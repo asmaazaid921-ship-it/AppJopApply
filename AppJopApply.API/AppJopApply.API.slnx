@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="../AppJopApply.Application/AppJopApply.Application.csproj" Id="242efc4e-9983-48f2-8566-8d5aa389ff6e" />
+  <Project Path="../AppJopApply.Domain/AppJopApply.Domain.csproj" Id="c5a1fd90-af4e-45cd-a45c-a8f25d71db93" />
+  <Project Path="../AppJopApply.Infrastruction/AppJopApply.Infrastruction.csproj" Id="fadbb4a1-9b14-47a0-9dbc-2d97f1ec1d1b" />
+  <Project Path="AppJopApply.API.csproj" />
+</Solution>

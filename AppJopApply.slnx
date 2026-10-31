@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="AppJopApply.Application/AppJopApply.Application.csproj" />
+  <Project Path="AppJopApply.Domain/AppJopApply.Domain.csproj" />
+  <Project Path="AppJopApply.Infrastruction/AppJopApply.Infrastruction.csproj" />
+  <Project Path="AppJopApply.API/AppJopApply.API.csproj" />
+</Solution>
